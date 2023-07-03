@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://naonh73a6pioq2h8v64nc294rtahb4vpebkudjvbihan6duo566fvil0.qc.dolfincdnx.net:7188/xdispatch705e603cb65ac950/bigota.d.miui.com/V12.5.7.0.QFGCNXM/miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip?bsreqid=0604b92257b4275e7d27d9a79aa54aad&bsxdisp=se
+  ROM_URL: https://naonh73a6pioq2h8v64nc294rtahb4vpebkudjvbihan6duo566fvil0.qc.dolfincdnx.net:7188/xdispatch705e603cb65ac950/bigota.d.miui.com/V12.5.7.0.QFGCNXM/miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
